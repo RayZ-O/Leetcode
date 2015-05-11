@@ -18,13 +18,11 @@ public:
         int distinct = 0;
         int count = 1;
         for (int i = 1; i < size; ++i) {
-            if (nums[i] == val) {
-                if (count == 1) {
-                    count++;
-                    distinct++;                
-                    nums[distinct] = nums[i];
-                } 
-            } else {
+            if (count == 1 && nums[i] == val) {
+                count++;
+                distinct++;                
+                nums[distinct] = nums[i];
+            } else if(nums[i] != val) {
                 count = 1;
                 val = nums[i];
                 distinct++;
