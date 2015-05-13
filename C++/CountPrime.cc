@@ -16,17 +16,15 @@ public:
         } 
         vector<int> flags(n, 1);
         int s = sqrt(n);
+        int count = n - 2;
         for (int i = 2; i <= s; ++i) {
             if (flags[i]) {
                 for (int j = i*i; j <n; j += i) {
-                    flags[j] = 0;
+                    if (flags[j]) {
+                        flags[j] = 0;
+                        --count;
+                    }
                 }
-            }
-        }
-        int count = 0;
-        for(auto it = flags.begin() + 2; it != flags.end(); ++it) {
-            if(*it) {
-                ++count;
             }
         }
         return count;
