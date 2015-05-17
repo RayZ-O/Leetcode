@@ -25,7 +25,6 @@ public:
     		for (int i = 0; i < k; i++)  {
     			 swap(nums[j + i], nums[n - k + i + j]);
     		}
-    		
     	}
     }
 
