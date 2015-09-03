@@ -39,11 +39,8 @@ public:
 
     // Get the top element.
     int top() {
-        if (qs[cur_q].size() == 1) return qs[cur_q].front();
-        else {
-            transfer(qs, cur_q);
-            return qs[cur_q].front();
-        }
+        transfer(qs, cur_q);
+        return qs[cur_q].front();
     }
 
     // Return whether the stack is empty.
@@ -51,4 +48,3 @@ public:
         return qs[0].empty() && qs[1].empty();
     }
 };
-
