@@ -9,7 +9,7 @@
 // Input: numbers={2, 7, 11, 15}, target=9
 // Output: index1=1, index2=2 
 
-public class Solution {
+public class TwoSum {
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer, Integer> table = new HashMap<Integer,Integer>();
 		int[] result = new int[2];
