@@ -37,6 +37,7 @@ public:
             }
         }
         // if majority element not always exist 
+        // count = 0;
         // for (int i : nums) {
         //    if (candidate == i) count++;
         // }
