@@ -3,27 +3,25 @@
 // Note:
 // You may assume that all inputs are consist of lowercase letters a-z.
 
-class TrieNode;
+// Implement a trie with insert, search, and startsWith methods.
 
-struct charInfo {
-    bool exist;
-    TrieNode* next;
-};
+// Note:
+// You may assume that all inputs are consist of lowercase letters a-z.
 
 class TrieNode { 
 public:
-    unordered_map<char, charInfo> chars;
-    // Initialize your data structure here.
-    TrieNode() : chars() { }
+    unordered_map<char, TrieNode*> chars;  // for branch node
+    bool isEnd;                            // for element node
+    TrieNode() : chars(), isEnd(false) { }
 };
 
 class Trie {
     bool isPrefix(string word, TrieNode* &node) {
-         for (int i = 0; i < word.size() - 1; i++) {
-            if(node->chars.find(word[i]) == node->chars.end() || !node->chars[word[i]].next) {
+         for (int i = 0; i < word.size(); i++) {
+            if(node->chars.find(word[i]) == node->chars.end()) {
                 return false;
             }
-            node = node->chars[word[i]].next;
+            node = node->chars[word[i]];
         }
         return true;
     }
@@ -35,37 +33,27 @@ public:
     // Inserts a word into the trie.
     void insert(string word) {
         TrieNode* node = root;
-        for (int i = 0; i < word.size() - 1; i++) {
+        for (int i = 0; i < word.size(); i++) {
             if(node->chars.find(word[i]) == node->chars.end()) {
-                node->chars.emplace(word[i], charInfo{false, new TrieNode()});
-            } else if (!node->chars[word[i]].next) {
-                node->chars[word[i]].next = new TrieNode();
-            }
-            node = node->chars[word[i]].next;
+                node->chars.emplace(word[i], new TrieNode());
+            } 
+            node = node->chars[word[i]];
         }
-        if(node->chars.find(word.back()) == node->chars.end()) 
-            node->chars.emplace(word.back(), charInfo{true, nullptr});
-        else
-            node->chars[word.back()].exist = true;
+        node->isEnd = true;
     }
 
     // Returns if the word is in the trie.
     bool search(string word) {
         TrieNode* node = root;
-        if (!isPrefix(word, node) || node->chars.find(word.back()) == node->chars.end()) {
-            return false;
-        }
-        return node->chars[word.back()].exist;
+        if (!isPrefix(word, node)) return false;
+        return node->isEnd;
     }
 
     // Returns if there is any word in the trie
     // that starts with the given prefix.
     bool startsWith(string prefix) {
         TrieNode* node = root;
-        if (!isPrefix(prefix, node) || node->chars.find(prefix.back()) == node->chars.end()) {
-            return false;
-        }
-        return true;
+        return isPrefix(prefix, node);
     }
 
 private:
