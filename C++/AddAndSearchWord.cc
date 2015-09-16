@@ -18,56 +18,30 @@
 // Note:
 // You may assume that all words are consist of lowercase letters a-z. 
 
-class TrieNode {
-public:
-    bool wordEnd[26];
-    TrieNode* children[26];
-    TrieNode* oneOfChildren;
-    TrieNode* sibling;
-    TrieNode() : oneOfChildren(nullptr), sibling(this){
-        for (int i = 0; i < 26; i++) {
-            wordEnd[i] = false;
-            children[i] = nullptr;
-        }
-    }
-};
-
 class WordDictionary {
 private:
-    TrieNode* root;
-    bool recursivSearch(string word, TrieNode* node) {
-        for (int i = 0; i < word.size() - 1; i++) {
-            if (word[i] == '.') { 
-                // find a next level node
-                if (!node->oneOfChildren) {
-                    TrieNode* beg = node;
-                    do {                    
-                        node = node->sibling;
-                    } while (!node->oneOfChildren && beg != node);
+    class TrieNode {
+    public:
+        bool isEnd;
+        unordered_map<char, TrieNode*> chars;
+        TrieNode() : isEnd(false) {  }
+    };
+    TrieNode* root; 
 
-                }
-                TrieNode* nlNode = node->oneOfChildren;
-                // if next level node exist
-                if (nlNode) {
-                    TrieNode* runner = nlNode; 
-                    do {
-                        // try each node in this level to match the remaining string
-                        if (recursivSearch(word.substr(i + 1), runner))
-                            return true;
-                        runner = runner->sibling;
-                    } while (runner != nlNode);
-                }    
+    bool recurseSearch(string word, TrieNode* node) {
+        for (int i = 0; i < word.size(); i++) {
+            if (word[i] == '.') {
+                return any_of(node->chars.begin(), node->chars.end(),
+                       [&](auto cs) {  // C++14 only, must specify type of cs in C++11
+                           return this->recurseSearch(word.substr(i + 1), cs.second);
+                       });
+            }
+            if(node->chars.find(word[i]) == node->chars.end()) {
                 return false;
-            } 
-            if (!node->children[word[i] - 'a'])  
-                return false;
-            node = node->children[word[i] - 'a'];
+            }
+            node = node->chars[word[i]];
         }
-        // check the last character
-        if (word.back() == '.') 
-            return true;
-        else 
-            return node->wordEnd[word.back() - 'a'];
+        return node->isEnd;
     }
 
 public:
@@ -76,37 +50,18 @@ public:
     // Adds a word into the data structure.
     void addWord(string word) {
         TrieNode* node = root;
-        for (int i = 0; i < word.size() - 1; i++) {
-            if (!node->children[word[i] - 'a']) {
-                TrieNode* newNode = new TrieNode();
-                node->children[word[i] - 'a'] = newNode;
-                // if this is the first child
-                if (!node->oneOfChildren) {
-                    node->oneOfChildren = newNode;
-                    TrieNode* runner = node->sibling;
-                    // check if any other node on this level
-                    while (runner != node) {
-                        if (runner->oneOfChildren) {
-                            newNode->sibling = runner->oneOfChildren->sibling;
-                            runner->oneOfChildren->sibling = newNode;
-                            break;
-                        }
-                        runner = runner->sibling;
-                    }
-                } else {
-                    newNode->sibling = node->oneOfChildren->sibling;
-                    node->oneOfChildren->sibling = newNode;
-                }
-            }
-            node = node->children[word[i] - 'a'];
+        for (int i = 0; i < word.size(); i++) {
+            if(node->chars.find(word[i]) == node->chars.end()) {
+                node->chars.emplace(word[i], new TrieNode());
+            } 
+            node = node->chars[word[i]];
         }
-        // set wordEnd field for last character
-        node->wordEnd[word.back() - 'a'] = true;
+        node->isEnd = true;
     }
 
     // Returns if the word is in the data structure. A word could
     // contain the dot character '.' to represent any one letter.
     bool search(string word) {
-        return recursivSearch(word, root);
+        return recurseSearch(word, root);
     }
 };
