@@ -27,7 +27,7 @@ class Solution {
     }
     ListNode* rightJustified(ListNode* head, int diff) {
          while (diff > 0) {
-               --diff;
+            --diff;
             head = head->next;
         }
         return head;
