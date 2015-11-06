@@ -19,13 +19,6 @@ class Solution(object):
         :type word2: str
         :rtype: int
         """
-        pos1, pos2 = -1, -1
-        min_diff = len(words)
-        for i, word in enumerate(words):
-            if word == word1:
-                pos1 = i
-            if word == word2:
-                pos2 = i
-            if pos1 != -1 and pos2 != -1:
-                min_diff = min(min_diff, abs(pos1 - pos2))
-        return min_diff
+        l1 = [i for i, x in enumerate(words) if x == word1]
+        l2 = [j for j, y in enumerate(words) if y == word2]
+        return min([abs(i - j) for i in l1 for j in l2])
