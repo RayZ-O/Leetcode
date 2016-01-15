@@ -21,27 +21,24 @@ class Solution {
         int count;
         int left_size;
         TreeNode(int v) : val(v), left(nullptr), right(nullptr), count(1), left_size(0) {}
+        ~TreeNode() {
+            if (left) delete left;
+            if (right) delete right;
+        }
     };
 
-    void insert(TreeNode* root, int val, int i, vector<int>& output, int size) {
-        if (root->val == val) {
+    void insert(TreeNode* &root, int val, int i, vector<int>& output, int size) {
+        if (!root) {
+            root = new TreeNode(val);
+            output[i] = size;
+        } else if (root->val == val) {
             root->count++;
             output[i] = size + root->left_size;
         } else if (root->val > val) {
             root->left_size++;
-            if (root->left) {
-                insert(root->left, val, i, output, size);
-            } else {
-                root->left = new TreeNode(val);
-                output[i] = size;
-            }
+            insert(root->left, val, i, output, size);
         } else {
-            if (root->right) {
-                insert(root->right, val, i, output, size + root->left_size + root->count);
-            } else {
-                root->right = new TreeNode(val);
-                output[i] = size + root->left_size + root->count;
-            }
+            insert(root->right, val, i, output, size + root->left_size + root->count);
         }
     }
 public:
@@ -49,12 +46,9 @@ public:
         vector<int> output(nums.size(), 0);
         TreeNode* root = nullptr;
         for (int i = nums.size() - 1; i >= 0; i--) {
-            if (!root) {
-                root = new TreeNode(nums[i]);
-            } else {
-                insert(root, nums[i], i, output, 0);
-            }
+            insert(root, nums[i], i, output, 0);
         }
+        delete root;
         return output;
     }
 };
