@@ -40,20 +40,20 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 301| Remove Invalid Parentheses| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RemoveInvalidParentheses.cc)|
 | 300| Longest Increasing Subsequence| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LongestIncreasingSubsequence.cc)|
 | 299| Bulls and Cows| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BullsAndCows.cc)|
-| 298| Binary Tree Longest Consecutive Sequence | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreeLongestConsecutiveSequence.cc)|
+| 298| Binary Tree Longest Consecutive Sequence | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreeLongestConsecutiveSequence.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BinaryTreeLongestConsecutiveSequence.java)|
 | 297| Serialize and Deserialize Binary Tree| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SerializeAndDeserializeBinaryTree.cc)|
 | 296| Best Meeting Point | Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BestMeetingPoint.cc)|
 | 295| Find Median from Data Stream| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FindMedianFromDataStream.cc)|
 | 294| Flip Game II | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FlipGameII.cc)|
 | 293| Flip Game | Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FlipGame.cc)|
-| 292| Nim Game| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/NimGame.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/NimGame.java)|
+| 292| Nim Game| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/NimGame.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/NimGame.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/nim_game.py)|
 | 291| Word Pattern II | Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/WordPatternII.cc)|
 | 290| Word Pattern| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/WordPattern.cc)|
 | 289| Game of Life| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/GameOfLife.cc)|
 | 288| Unique Word Abbreviation | Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/UniqueWordAbbreviation.cc)|
 | 287| Find the Duplicate Number| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FindTheDuplicateNumber.cc)|
 | 286| Walls and Gates | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/WallsAndGates.cc)|
-| 285| Inorder Successor in BST | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/InorderSuccessorInBST.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/InorderSuccessorInBST.java)|
+| 285| Inorder Successor in BST | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/InorderSuccessorInBST.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/InorderSuccessorInBST.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/inorder_successor_in_bst.py)|
 | 284| Peeking Iterator| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PeekingIterator.cc)|
 | 283| Move Zeroes| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MoveZeroes.cc)|
 | 282| Expression Add Operators| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ExpressionAddOperators.cc)|
@@ -68,7 +68,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 273| Integer to English Words| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/IntegerToEnglishWords.cc)|
 | 272| Closest Binary Search Tree Value II | Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ClosestBinarySearchTreeValueII.cc)|
 | 271| Encode and Decode Strings | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/EncodeAndDecodeStrings.cc)|
-| 270| Closest Binary Search Tree Value | Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ClosestBinarySearchTreeValue.cc)|
+| 270| Closest Binary Search Tree Value | Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ClosestBinarySearchTreeValue.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ClosestBinarySearchTreeValue.java)|
 | 269| Alien Dictionary | Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/AlienDictionary.cc)|
 | 268| Missing Number| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MissingNumber.cc)|
 | 267| Palindrome Permutation II | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PalindromePermutationII.cc)|
@@ -78,11 +78,11 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 263| Ugly Number| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/UglyNumber.cc)|
 | 261| Graph Valid Tree | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/GraphValidTree.cc)|
 | 260| Single Number III| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SingleNumberIII.cc)|
-| 259| 3Sum Smaller | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/3SumSmaller.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ThreeSumSmaller.java)|
+| 259| 3Sum Smaller | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/3SumSmaller.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ThreeSumSmaller.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/three_sum_smaller.py)|
 | 258| Add Digits| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/AddDigits.cc)|
-| 257| Binary Tree Paths| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreePaths.cc)|
+| 257| Binary Tree Paths| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreePaths.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BinaryTreePaths.java)|
 | 256| Paint House | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PaintHouse.cc)|
-| 255| Verify Preorder Sequence in Binary Search Tree | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/VerifyPreorderSequenceInBinarySearchTree.cc)|
+| 255| Verify Preorder Sequence in Binary Search Tree | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/VerifyPreorderSequenceInBinarySearchTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/VerifyPreorderSerializationOfABinaryTree.java)|
 | 254| Factor Combinations | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FactorCombinations.cc)|
 | 253| Meeting Rooms II | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MeetingRoomsII.cc)|
 | 252| Meeting Rooms | Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MeetingRooms.cc)|
@@ -93,25 +93,25 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 247| Strobogrammatic Number II | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/StrobogrammaticNumberII.cc)|
 | 246| Strobogrammatic Number | Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/StrobogrammaticNumber.cc)|
 | 245| Shortest Word Distance III | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ShortestWordDistanceIII.cc)|
-| 244| Shortest Word Distance II | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ShortestWordDistanceII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ShortestWordDistanceII.java)|
-| 243| Shortest Word Distance | Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ShortestWordDistance.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ShortestWordDistance.java)|
+| 244| Shortest Word Distance II | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ShortestWordDistanceII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ShortestWordDistanceII.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/shortest_word_distance_ii.py)|
+| 243| Shortest Word Distance | Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ShortestWordDistance.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ShortestWordDistance.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/shortest_word_distance.py)|
 | 242| Valid Anagram| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ValidAnagram.cc)|
 | 241| Different Ways to Add Parentheses| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/DifferentWaysToAddParentheses.cc)|
 | 240| Search a 2D Matrix II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchA2DMatrixII.cc)|
 | 239| Sliding Window Maximum| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SlidingWindowMaximum.cc)|
 | 238| Product of Array Except Self| Medium| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ProductofArrayExceptSelf.cc) |
-| 237| Delete Node in a Linked List| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/DeleteNodeInLinkedList.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/DeleteNodeInLinkedList.java) |
+| 237| Delete Node in a Linked List| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/DeleteNodeInLinkedList.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/DeleteNodeInLinkedList.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/delete_node_in_linked_list.py)|
 | 236| Lowest Common Ancestor of a Binary Tree| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LowestCommonAncestorOfABinaryTree.cc)|
 | 235| Lowest Common Ancestor of a Binary Search Tree| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LowestCommonAncestorOfaBinarySearchTree.cc) |
 | 234| Palindrome Linked List| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PalindromeLinkedList.cc)|
 | 233| Number of Digit One| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/NumberOfDigitOne.cc)|
 | 232| Implement Queue using Stacks| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ImplementQueueUsingStacks.cc)|
 | 231| Power of Two| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PowerOfTwo.cc)|
-| 230| Kth Smallest Element in a BST| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/KthSmallestElementInABST.cc)|
+| 230| Kth Smallest Element in a BST| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/KthSmallestElementInABST.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/KthSmallestElementInABST.java)|
 | 229| Majority Element II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MajorityElementII.cc)|
 | 228| Summary Ranges| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SummaryRanges.cc)|
 | 227| Basic Calculator II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BasicCalculatorII.cc)|
-| 226| Invert Binary Tree| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/InvertBinaryTree.cc)|
+| 226| Invert Binary Tree| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/InvertBinaryTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/InvertBinaryTree.java)|
 | 225| Implement Stack using Queues| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ImplementStackUsingQueues.cc)|
 | 224| Basic Calculator| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BasicCalculator.cc)|
 | 223| Rectangle Area| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RectangleArea.cc)|
@@ -120,7 +120,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 220| Contains Duplicate III| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ContainsDuplicateIII.cc)|
 | 219| Contains Duplicate II| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ContainsDuplicateII.cc)|
 | 218| The Skyline Problem| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/TheSkylineProblem.cc)|
-| 217| Contains Duplicate| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ContainsDuplicate.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ContainsDuplicate.java)|
+| 217| Contains Duplicate| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ContainsDuplicate.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ContainsDuplicate.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/contains_duplicate.py)|
 | 216| Combination Sum III| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CombinationSumIII.cc)|
 | 215| Kth Largest Element in an Array| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/KthLargestElementInAnArray.cc)|
 | 214| Shortest Palindrome| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ShortestPalindrome.cc)|
@@ -145,7 +145,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 189| Rotate Array| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RotateArray.cc)|
 | 188| Best Time to Buy and Sell Stock IV| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BestTimeToBuyAndSellStockIV.cc)|
 | 187| Repeated DNA Sequences| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RepeatedDNASequences.cc)|
-| 186| Reverse Words in a String II | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ReverseWordsInAStringII.cc)|
+| 186| Reverse Words in a String II | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ReverseWordsInAStringII.cc), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/reverse_words_in_a_string.py)|
 | 179| Largest Number| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LargestNumber.cc)|
 | 174| Dungeon Game| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/DungeonGame.cc)|
 | 173| Binary Search Tree Iterator| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinarySearchTreeIterator.cc)|
@@ -161,7 +161,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 163| Missing Ranges | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MissingRanges.cc)|
 | 162| Find Peak Element| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FindPeakElement.cc)|
 | 161| One Edit Distance | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/OneEditDistance.cc)|
-| 160| Intersection of Two Linked Lists| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/IntersectionOfTwoLinkedLists.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/IntersectionOfTwoLinkedLists.java)|
+| 160| Intersection of Two Linked Lists| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/IntersectionOfTwoLinkedLists.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/IntersectionOfTwoLinkedLists.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/intersection_of_two_linked_lists.py)|
 | 159| Longest Substring with At Most Two Distinct Characters | Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LongestSubstringWithAtMostTwoDistinctCharacters.cc)|
 | 158| Read N Characters Given Read4 II - Call multiple times | Hard| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ReadNCharactersGivenRead4II.cc) |
 | 157| Read N Characters Given Read4 | Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ReadNCharactersGivenRead4.cc)|
@@ -192,7 +192,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 132| Palindrome Partitioning II| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PalindromePartitioningII.cc)|
 | 131| Palindrome Partitioning| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PalindromePartitioning.cc)|
 | 130| Surrounded Regions| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SurroundedRegions.cc)|
-| 129| Sum Root to Leaf Numbers| Medium| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SumRoottoLeafNumbers.cc) |
+| 129| Sum Root to Leaf Numbers| Medium| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SumRoottoLeafNumbers.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SumRootToLeafNumbers.java)|
 | 128| Longest Consecutive Sequence| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LongestConsecutiveSequence.cc)|
 | 127| Word Ladder| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/WordLadder.cc)|
 | 126| Word Ladder II| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/WordLadderII.cc)|
@@ -208,22 +208,22 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 116| Populating Next Right Pointers in Each Node| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PopulatingNextRightPointersInEachNode.cc)|
 | 115| Distinct Subsequences| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/DistinctSubsequences.cc)|
 | 114| Flatten Binary Tree to Linked List| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FlattenBinaryTreeToLinkedList.cc)|
-| 113| Path Sum II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PathSumII.cc)|
-| 112| Path Sum| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PathSum.cc)|
+| 113| Path Sum II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PathSumII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/PathSumII.java)|
+| 112| Path Sum| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PathSum.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/PathSum.java)|
 | 111| Minimum Depth of Binary Tree| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MinimumDepthOfBinaryTree.cc)|
-| 110| Balanced Binary Tree| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BalancedBinaryTree.cc)|
+| 110| Balanced Binary Tree| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BalancedBinaryTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BalancedBinaryTree.java)|
 | 109| Convert Sorted List to Binary Search Tree| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ConvertSortedListToBinarySearchTree.cc)|
 | 108| Convert Sorted Array to Binary Search Tree| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ConvertSortedArrayToBinarySearchTree.cc)|
-| 107| Binary Tree Level Order Traversal II| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreeLevelOrderTraversalII.cc)|
+| 107| Binary Tree Level Order Traversal II| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreeLevelOrderTraversalII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BinaryTreeLevelOrderTraversalII.java)|
 | 106| Construct Binary Tree from Inorder and Postorder Traversal| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ConstructBinaryTreeFromInorderAndPostorderTraversal.cc)|
 | 105| Construct Binary Tree from Preorder and Inorder Traversal| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ConstructBinaryTreeFromPreorderAndInorderTraversal.cc)|
 | 104| Maximum Depth of Binary Tree| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MaximumDepthOfBinaryTree.cc)|
 | 103| Binary Tree Zigzag Level Order Traversal| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreeZigzagLevelOrderTraversal.cc)|
-| 102| Binary Tree Level Order Traversal| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreeLevelOrderTraversal.cc)|
+| 102| Binary Tree Level Order Traversal| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreeLevelOrderTraversal.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BinaryTreeLevelOrderTraversal.java)|
 | 101| Symmetric Tree| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SymmetricTree.cc)|
 | 100| Same Tree| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SameTree.cc)|
 | 99| Recover Binary Search Tree| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RecoverBinarySearchTree.cc)|
-| 98| Validate Binary Search Tree| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ValidateBinarySearchTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ValidateBinarySearchTree.java)|
+| 98| Validate Binary Search Tree| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ValidateBinarySearchTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ValidateBinarySearchTree.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/validate_binary_search_tree.py)|
 | 97| Interleaving String| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/InterleavingString.cc)|
 | 96| Unique Binary Search Trees| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/UniqueBinarySearchTrees.cc)|
 | 95| Unique Binary Search Trees II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/UniqueBinarySearchTreesII.cc)|
@@ -246,11 +246,11 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 78| Subsets| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/Subsets.cc)|
 | 77| Combinations| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/Combinations.cc)|
 | 76| Minimum Window Substring| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MinimumWindowSubstring.cc)|
-| 75| Sort Colors| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SortColors.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SortColors.java)|
+| 75| Sort Colors| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SortColors.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SortColors.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/sort_colors.py)|
 | 74| Search a 2D Matrix| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchA2DMatrix.cc)|
 | 73| Set Matrix Zeroes| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SetMatrixZeroes.cc)|
 | 72| Edit Distance| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/EditDistance.cc)|
-| 71| Simplify Path| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SimplifyPath.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SimplifyPath.java)|
+| 71| Simplify Path| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SimplifyPath.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SimplifyPath.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/simplify_path.py)|
 | 70| Climbing Stairs| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ClimbingStairs.cc)|
 | 69| Sqrt(x)| Medium| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/Sqrt.cc) |
 | 68| Text Justification| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/TextJustification.cc)|
@@ -263,7 +263,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 61| Rotate List| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RotateList.cc)|
 | 60| Permutation Sequence| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PermutationSequence.cc)|
 | 59| Spiral Matrix II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SpiralMatrixII.cc)|
-| 58| Length of Last Word| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LengthOfLastWord.cc)|
+| 58| Length of Last Word| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LengthOfLastWord.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/LengthOfLastWord.java)|
 | 57| Insert Interval| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/InsertInterval.cc)|
 | 56| Merge Intervals| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MergeIntervals.cc)|
 | 55| Jump Game| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/JumpGame.cc)|
@@ -278,7 +278,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 46| Permutations| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/Permutations.cc)|
 | 45| Jump Game II| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/JumpGameII.cc)|
 | 44| Wildcard Matching| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/WildcardMatching.cc)|
-| 43| Multiply Strings| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MultiplyStrings.cc)|
+| 43| Multiply Strings| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MultiplyStrings.cc), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/multiply_strings.py)|
 | 42| Trapping Rain Water| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/TrappingRainWater.cc)|
 | 41| First Missing Positive| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FirstMissingPositive.cc)|
 | 40| Combination Sum II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CombinationSumII.cc)|
@@ -289,7 +289,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 35| Search Insert Position| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchInsertPosition.cc)|
 | 34| Search for a Range| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchForARange.cc)|
 | 33| Search in Rotated Sorted Array| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchInRotatedSortedArray.cc)|
-| 32| Longest Valid Parentheses| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LongestValidParentheses.cc)|
+| 32| Longest Valid Parentheses| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LongestValidParentheses.cc), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/valid_parentheses.py)|
 | 31| Next Permutation| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/NextPermutation.cc)|
 | 30| Substring with Concatenation of All Words| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SubstringWithConcatenationOfAllWords.cc)|
 | 29| Divide Two Integers| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/DivideTwoIntegers.cc)|
@@ -300,12 +300,12 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 24| Swap Nodes in Pairs| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SwapNodesInPairs.cc)|
 | 23| Merge k Sorted Lists| Hard| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MergekSortedLists.cc) |
 | 22| Generate Parentheses| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/GenerateParentheses.cc)|
-| 21| Merge Two Sorted Lists| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MergeTwoSortedList.cc) |
+| 21| Merge Two Sorted Lists| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MergeTwoSortedList.cc), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/merge_two_sorted_lists.py)|
 | 20| Valid Parentheses| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ValidParentheses.cc)|
 | 19| Remove Nth Node From End of List| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RemoveNthFromEnd.cc) |
 | 18| 4Sum| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/4Sum.cc)|
 | 17| Letter Combinations of a Phone Number| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LetterCombinationsOfAPhoneNumber.cc)|
-| 16| 3Sum Closest| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/3SumClosest.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ThreeSumClosest.java)|
+| 16| 3Sum Closest| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/3SumClosest.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ThreeSumClosest.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/three_sum_closest.py)|
 | 15| 3Sum| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/3Sum.cc)|
 | 14| Longest Common Prefix| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LongestCommonPrefix.cc)|
 | 13| Roman to Integer| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RomanToInteger.cc)|
@@ -319,7 +319,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 5| Longest Palindromic Substring| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LongestPalindromicSubstring.cc)|
 | 4| Median of Two Sorted Arrays| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MedianOfTwoSortedArrays.cc)|
 | 3| Longest Substring Without Repeating Characters| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LongestSubstringWithoutRepeatingCharacters.cc)|
-| 2| Add Two Numbers| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/AddTwoNumbers.cc)|
+| 2| Add Two Numbers| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/AddTwoNumbers.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/AddTwoNumbers.java)|
 | 1| Two Sum| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/TwoSum.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/TwoSum.java)|
 
 # Shell
