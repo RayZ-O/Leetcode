@@ -5,6 +5,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 # Algorithms
 | # |Title |Difficulty| Code |
 |---|------|----------|------|
+| 334| Increasing Triplet Subsequence|Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/IncreasingTripletSubsequence.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/IncreasingTripletSubsequence.java)|
 | 333| Largest BST Subtree | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LargestBSTSubtree.cc)|
 | 332| Reconstruct Itinerary| Medium| |
 | 331| Verify Preorder Serialization of a Binary Tree| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/VerifyPreorderSerializationOfABinaryTree.cc)|
@@ -170,7 +171,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 154| Find Minimum in Rotated Sorted Array II| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FindMinimumInRotatedSortedArrayII.cc)|
 | 153| Find Minimum in Rotated Sorted Array| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FindMinimumInRotatedSortedArray.cc)|
 | 152| Maximum Product Subarray| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MaximumProductSubarray.cc)|
-| 151| Reverse Words in a String| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ReverseWordsInAString.cc)|
+| 151| Reverse Words in a String| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ReverseWordsInAString.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ReverseWordsInAString.java)|
 | 150| Evaluate Reverse Polish Notation| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/EvaluateReversePolishNotation.cc)|
 | 149| Max Points on a Line| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MaxPointsOnALine.cc)|
 | 148| Sort List| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SortList.cc)|
