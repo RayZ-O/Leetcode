@@ -184,7 +184,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 141| Linked List Cycle| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LinkedListCycle.cc)|
 | 140| Word Break II| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/WordBreakII.cc)|
 | 139| Word Break| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/WordBreak.cc)|
-| 138| Copy List with Random Pointer| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CopyListWithRandomPointer.cc)|
+| 138| Copy List with Random Pointer| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CopyListWithRandomPointer.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/CopyListWithRandomPointer.java)|
 | 137| Single Number II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SingleNumberII.cc)|
 | 136| Single Number| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SingleNumber.cc)|
 | 135| Candy| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/Candy.cc)|
@@ -290,7 +290,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 35| Search Insert Position| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchInsertPosition.cc)|
 | 34| Search for a Range| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchForARange.cc)|
 | 33| Search in Rotated Sorted Array| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchInRotatedSortedArray.cc)|
-| 32| Longest Valid Parentheses| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LongestValidParentheses.cc), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/valid_parentheses.py)|
+| 32| Longest Valid Parentheses| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LongestValidParentheses.cc)|
 | 31| Next Permutation| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/NextPermutation.cc)|
 | 30| Substring with Concatenation of All Words| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SubstringWithConcatenationOfAllWords.cc)|
 | 29| Divide Two Integers| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/DivideTwoIntegers.cc)|
@@ -302,7 +302,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 23| Merge k Sorted Lists| Hard| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MergekSortedLists.cc) |
 | 22| Generate Parentheses| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/GenerateParentheses.cc)|
 | 21| Merge Two Sorted Lists| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MergeTwoSortedList.cc), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/merge_two_sorted_lists.py)|
-| 20| Valid Parentheses| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ValidParentheses.cc)|
+| 20| Valid Parentheses| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ValidParentheses.cc), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/valid_parentheses.py)|
 | 19| Remove Nth Node From End of List| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RemoveNthFromEnd.cc) |
 | 18| 4Sum| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/4Sum.cc)|
 | 17| Letter Combinations of a Phone Number| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LetterCombinationsOfAPhoneNumber.cc)|
@@ -330,3 +330,20 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 |194|	Transpose File|Medium|[Shell](https://github.com/RayZ-O/leetcode/blob/master/Shell/transpose_file.sh)|
 |193|	Valid Phone Numbers|	Easy|[Shell](https://github.com/RayZ-O/leetcode/blob/master/Shell/valid_phone_numbers.sh)|
 |192|	Word Frequency|Medium|[Shell](https://github.com/RayZ-O/leetcode/blob/master/Shell/word_frequency.sh)|
+
+# Database
+| # |Title |Difficulty| Code |
+|---|------|----------|------|
+|262 |Trips and Users | Hard||
+|197 |Rising Temperature | Easy||
+|196 |Delete Duplicate Emails | Easy|[SQL](https://github.com/RayZ-O/leetcode/blob/master/MySQL/DeleteDuplicateEmails.sql)|
+|185 |Department Top Three Salaries | Hard||
+|184 |Department Highest Salary | Medium|[SQL](https://github.com/RayZ-O/leetcode/blob/master/MySQL/DepartmentHighestSalary.sql)|
+|183 |Customers Who Never Order | Easy|[SQL](https://github.com/RayZ-O/leetcode/blob/master/MySQL/CustomersWhoNeverOrder.sql)|
+|182 |Duplicate Emails | Easy|[SQL](https://github.com/RayZ-O/leetcode/blob/master/MySQL/DuplicateEmails.sql)|
+|181 |Employees Earning More Than Their Managers | Easy|[SQL](https://github.com/RayZ-O/leetcode/blob/master/MySQL/EmployeesEarningMoreThanTheirManagers.sql)|
+|180 |Consecutive Numbers | Medium||
+|178 |Rank Scores | Medium||
+|177 |Nth Highest Salary | Medium|[SQL](https://github.com/RayZ-O/leetcode/blob/master/MySQL/NthHighestSalary.sql)|
+|176 |Second Highest Salary | Easy|[SQL](https://github.com/RayZ-O/leetcode/blob/master/MySQL/SecondHighestSalary.sql)|
+|175 |Combine Two Tables | Easy|[SQL](https://github.com/RayZ-O/leetcode/blob/master/MySQL/CombineTwoTables.sql)|
