@@ -103,7 +103,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 238| Product of Array Except Self| Medium| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ProductofArrayExceptSelf.cc) |
 | 237| Delete Node in a Linked List| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/DeleteNodeInLinkedList.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/DeleteNodeInLinkedList.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/delete_node_in_linked_list.py)|
 | 236| Lowest Common Ancestor of a Binary Tree| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LowestCommonAncestorOfABinaryTree.cc)|
-| 235| Lowest Common Ancestor of a Binary Search Tree| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LowestCommonAncestorOfaBinarySearchTree.cc) |
+| 235| Lowest Common Ancestor of a Binary Search Tree| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LowestCommonAncestorOfaBinarySearchTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/LowestCommonAncestorOfABinarySearchTree.java)|
 | 234| Palindrome Linked List| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PalindromeLinkedList.cc)|
 | 233| Number of Digit One| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/NumberOfDigitOne.cc)|
 | 232| Implement Queue using Stacks| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ImplementQueueUsingStacks.cc)|
@@ -208,21 +208,21 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 117| Populating Next Right Pointers in Each Node II| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PopulatingNextRightPointersInEachNodeII.cc)|
 | 116| Populating Next Right Pointers in Each Node| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PopulatingNextRightPointersInEachNode.cc)|
 | 115| Distinct Subsequences| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/DistinctSubsequences.cc)|
-| 114| Flatten Binary Tree to Linked List| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FlattenBinaryTreeToLinkedList.cc)|
+| 114| Flatten Binary Tree to Linked List| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FlattenBinaryTreeToLinkedList.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/FlattenBinaryTreeToLinkedList.java)|
 | 113| Path Sum II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PathSumII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/PathSumII.java)|
 | 112| Path Sum| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PathSum.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/PathSum.java)|
-| 111| Minimum Depth of Binary Tree| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MinimumDepthOfBinaryTree.cc)|
+| 111| Minimum Depth of Binary Tree| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MinimumDepthOfBinaryTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/MinimumDepthOfBinaryTree.java)|
 | 110| Balanced Binary Tree| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BalancedBinaryTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BalancedBinaryTree.java)|
 | 109| Convert Sorted List to Binary Search Tree| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ConvertSortedListToBinarySearchTree.cc)|
 | 108| Convert Sorted Array to Binary Search Tree| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ConvertSortedArrayToBinarySearchTree.cc)|
 | 107| Binary Tree Level Order Traversal II| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreeLevelOrderTraversalII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BinaryTreeLevelOrderTraversalII.java)|
 | 106| Construct Binary Tree from Inorder and Postorder Traversal| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ConstructBinaryTreeFromInorderAndPostorderTraversal.cc)|
 | 105| Construct Binary Tree from Preorder and Inorder Traversal| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ConstructBinaryTreeFromPreorderAndInorderTraversal.cc)|
-| 104| Maximum Depth of Binary Tree| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MaximumDepthOfBinaryTree.cc)|
-| 103| Binary Tree Zigzag Level Order Traversal| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreeZigzagLevelOrderTraversal.cc)|
+| 104| Maximum Depth of Binary Tree| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MaximumDepthOfBinaryTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/MaximumDepthOfBinaryTree.java)|
+| 103| Binary Tree Zigzag Level Order Traversal| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreeZigzagLevelOrderTraversal.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BinaryTreeZigzagLevelOrderTraversal.java)|
 | 102| Binary Tree Level Order Traversal| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreeLevelOrderTraversal.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BinaryTreeLevelOrderTraversal.java)|
-| 101| Symmetric Tree| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SymmetricTree.cc)|
-| 100| Same Tree| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SameTree.cc)|
+| 101| Symmetric Tree| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SymmetricTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SymmetricTree.java)|
+| 100| Same Tree| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SameTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SameTree.java)|
 | 99| Recover Binary Search Tree| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RecoverBinarySearchTree.cc)|
 | 98| Validate Binary Search Tree| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ValidateBinarySearchTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ValidateBinarySearchTree.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/validate_binary_search_tree.py)|
 | 97| Interleaving String| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/InterleavingString.cc)|
@@ -315,7 +315,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 10| Regular Expression Matching| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RegularExpressionMatching.cc)|
 | 9| Palindrome Number| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PalindromeNumber.cc)|
 | 8| String to Integer (atoi)| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/StringToInteger.cc) |
-| 7| Reverse Integer| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ReverseInteger.cc)|
+| 7| Reverse Integer| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ReverseInteger.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ReverseInteger.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/reverse_integer.py)|
 | 6| ZigZag Conversion| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ZigZagConversion.cc)|
 | 5| Longest Palindromic Substring| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LongestPalindromicSubstring.cc)|
 | 4| Median of Two Sorted Arrays| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MedianOfTwoSortedArrays.cc)|
