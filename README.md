@@ -116,7 +116,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 225| Implement Stack using Queues| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ImplementStackUsingQueues.cc)|
 | 224| Basic Calculator| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BasicCalculator.cc)|
 | 223| Rectangle Area| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RectangleArea.cc)|
-| 222| Count Complete Tree Nodes| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CountCompleteTreeNodes.cc)|
+| 222| Count Complete Tree Nodes| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CountCompleteTreeNodes.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/CountCompleteTreeNodes.java)|
 | 221| Maximal Square| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MaximalSquare.cc)|
 | 220| Contains Duplicate III| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ContainsDuplicateIII.cc)|
 | 219| Contains Duplicate II| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ContainsDuplicateII.cc)|
@@ -160,13 +160,13 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 165| Compare Version Numbers| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CompareVersionNumbers.cc)|
 | 164| Maximum Gap| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MaximumGap.cc)|
 | 163| Missing Ranges | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MissingRanges.cc)|
-| 162| Find Peak Element| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FindPeakElement.cc)|
+| 162| Find Peak Element| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FindPeakElement.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/FindPeakElement.java)|
 | 161| One Edit Distance | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/OneEditDistance.cc)|
 | 160| Intersection of Two Linked Lists| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/IntersectionOfTwoLinkedLists.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/IntersectionOfTwoLinkedLists.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/intersection_of_two_linked_lists.py)|
 | 159| Longest Substring with At Most Two Distinct Characters | Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LongestSubstringWithAtMostTwoDistinctCharacters.cc)|
 | 158| Read N Characters Given Read4 II - Call multiple times | Hard| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ReadNCharactersGivenRead4II.cc) |
 | 157| Read N Characters Given Read4 | Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ReadNCharactersGivenRead4.cc)|
-| 156| Binary Tree Upside Down | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreeUpsideDown.cc)|
+| 156| Binary Tree Upside Down | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreeUpsideDown.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BinaryTreeUpsideDown.java)|
 | 155| Min Stack| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MinStack.cc)|
 | 154| Find Minimum in Rotated Sorted Array II| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FindMinimumInRotatedSortedArrayII.cc)|
 | 153| Find Minimum in Rotated Sorted Array| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FindMinimumInRotatedSortedArray.cc)|
@@ -303,7 +303,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 22| Generate Parentheses| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/GenerateParentheses.cc)|
 | 21| Merge Two Sorted Lists| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MergeTwoSortedList.cc), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/merge_two_sorted_lists.py)|
 | 20| Valid Parentheses| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ValidParentheses.cc), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/valid_parentheses.py)|
-| 19| Remove Nth Node From End of List| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RemoveNthFromEnd.cc) |
+| 19| Remove Nth Node From End of List| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RemoveNthFromEnd.cc) [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/RemoveNthNodeFromEndOfList.java)|
 | 18| 4Sum| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/4Sum.cc)|
 | 17| Letter Combinations of a Phone Number| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LetterCombinationsOfAPhoneNumber.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/LetterCombinationsOfAPhoneNumber.java)|
 | 16| 3Sum Closest| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/3SumClosest.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ThreeSumClosest.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/three_sum_closest.py)|
