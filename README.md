@@ -1,5 +1,5 @@
 # leetcode
-Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
+Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 
 
 # Algorithms
@@ -11,7 +11,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 331| Verify Preorder Serialization of a Binary Tree| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/VerifyPreorderSerializationOfABinaryTree.cc)|
 | 330| Patching Array| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PatchingArray.cc)|
 | 329| Longest Increasing Path in a Matrix| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LongestIncreasingPathInAMatrix.cc)|
-| 328| Odd Even Linked List| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/OddEvenLinkedList.cc)|
+| 328| Odd Even Linked List| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/OddEvenLinkedList.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/OddEvenLinkedList.java)|
 | 327| Count of Range Sum| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CountOfRangeSum.cc)|
 | 326| Power of Three| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PowerOfThree.cc)|
 | 325| Maximum Size Subarray Sum Equals k | Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MaximumSizeSubarraySumEqualsK.cc)|
@@ -104,7 +104,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 237| Delete Node in a Linked List| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/DeleteNodeInLinkedList.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/DeleteNodeInLinkedList.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/delete_node_in_linked_list.py)|
 | 236| Lowest Common Ancestor of a Binary Tree| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LowestCommonAncestorOfABinaryTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/LowestCommonAncestorOfABinaryTree.java)|
 | 235| Lowest Common Ancestor of a Binary Search Tree| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LowestCommonAncestorOfaBinarySearchTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/LowestCommonAncestorOfABinarySearchTree.java)|
-| 234| Palindrome Linked List| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PalindromeLinkedList.cc)|
+| 234| Palindrome Linked List| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PalindromeLinkedList.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/PalindromeLinkedList.java)|
 | 233| Number of Digit One| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/NumberOfDigitOne.cc)|
 | 232| Implement Queue using Stacks| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ImplementQueueUsingStacks.cc)|
 | 231| Power of Two| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PowerOfTwo.cc)|
@@ -132,7 +132,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 209| Minimum Size Subarray Sum| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MinimumSizeSubarraySum.cc)|
 | 208| Implement Trie (Prefix Tree)| Medium| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ImplementTrie.cc) |
 | 207| Course Schedule| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CourseSchedule.cc)|
-| 206| Reverse Linked List| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ReverseList.cc) |
+| 206| Reverse Linked List| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ReverseList.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ReverseLinkedList.java)|
 | 205| Isomorphic Strings| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/IsomorphicStrings.cpp) |
 | 204| Count Primes| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CountPrime.cc) |
 | 203| Remove Linked List Elements| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RemoveLinkedListElements.cc)|
@@ -143,10 +143,10 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 198| House Robber| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/HouseRobber.cc)|
 | 191| Number of 1 Bits| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/NumberOf1Bits.cc)|
 | 190| Reverse Bits| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ReverseBits.cc)|
-| 189| Rotate Array| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RotateArray.cc)|
+| 189| Rotate Array| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RotateArray.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/RotateArray.java)|
 | 188| Best Time to Buy and Sell Stock IV| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BestTimeToBuyAndSellStockIV.cc)|
 | 187| Repeated DNA Sequences| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RepeatedDNASequences.cc)|
-| 186| Reverse Words in a String II | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ReverseWordsInAStringII.cc), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/reverse_words_in_a_string.py)|
+| 186| Reverse Words in a String II | Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ReverseWordsInAStringII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ReverseWordsInAStringII.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/reverse_words_in_a_string.py)|
 | 179| Largest Number| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LargestNumber.cc)|
 | 174| Dungeon Game| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/DungeonGame.cc)|
 | 173| Binary Search Tree Iterator| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinarySearchTreeIterator.cc)|
@@ -213,7 +213,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 112| Path Sum| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PathSum.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/PathSum.java)|
 | 111| Minimum Depth of Binary Tree| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MinimumDepthOfBinaryTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/MinimumDepthOfBinaryTree.java)|
 | 110| Balanced Binary Tree| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BalancedBinaryTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BalancedBinaryTree.java)|
-| 109| Convert Sorted List to Binary Search Tree| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ConvertSortedListToBinarySearchTree.cc)|
+| 109| Convert Sorted List to Binary Search Tree| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ConvertSortedListToBinarySearchTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ConvertSortedListToBinarySearchTree.java)|
 | 108| Convert Sorted Array to Binary Search Tree| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ConvertSortedArrayToBinarySearchTree.cc)|
 | 107| Binary Tree Level Order Traversal II| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreeLevelOrderTraversalII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BinaryTreeLevelOrderTraversalII.java)|
 | 106| Construct Binary Tree from Inorder and Postorder Traversal| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ConstructBinaryTreeFromInorderAndPostorderTraversal.cc)|
@@ -236,11 +236,11 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 89| Gray Code| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/GrayCode.cc)|
 | 88| Merge Sorted Array| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MergeSortedArray.cc)|
 | 87| Scramble String| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ScrambleString.cc)|
-| 86| Partition List| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PartitionList.cc)|
+| 86| Partition List| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PartitionList.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/PartitionList.java)|
 | 85| Maximal Rectangle| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MaximalRectangle.cc)|
 | 84| Largest Rectangle in Histogram| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LargestRectangleInHistogram.cc)|
-| 83| Remove Duplicates from Sorted List| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RemoveDuplicatesFromSortedList.cc)|
-| 82| Remove Duplicates from Sorted List II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RemoveDuplicatesFromSortedListII.cc)|
+| 83| Remove Duplicates from Sorted List| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RemoveDuplicatesFromSortedList.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/RemoveDuplicatesFromSortedList.java)|
+| 82| Remove Duplicates from Sorted List II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RemoveDuplicatesFromSortedListII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/RemoveDuplicatesFromSortedListII.java)|
 | 81| Search in Rotated Sorted Array II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchInRotatedSortedArrayII.cc)|
 | 80| Remove Duplicates from Sorted Array II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RemoveDuplicatesFromSortedArrayII.cc)|
 | 79| Word Search| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/WordSearch.cc)|
@@ -299,9 +299,9 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 | 26| Remove Duplicates from Sorted Array| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RemoveDuplicatesFromSortedArray.cc)|
 | 25| Reverse Nodes in k-Group| Hard| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ReverseNodesInk-Group.cc) |
 | 24| Swap Nodes in Pairs| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SwapNodesInPairs.cc)|
-| 23| Merge k Sorted Lists| Hard| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MergekSortedLists.cc) |
+| 23| Merge k Sorted Lists| Hard| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MergekSortedLists.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/MergeKSortedLists.java)|
 | 22| Generate Parentheses| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/GenerateParentheses.cc)|
-| 21| Merge Two Sorted Lists| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MergeTwoSortedList.cc), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/merge_two_sorted_lists.py)|
+| 21| Merge Two Sorted Lists| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MergeTwoSortedList.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/MergeTwoSortedLists.java) [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/merge_two_sorted_lists.py)|
 | 20| Valid Parentheses| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ValidParentheses.cc), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/valid_parentheses.py)|
 | 19| Remove Nth Node From End of List| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RemoveNthFromEnd.cc) [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/RemoveNthNodeFromEndOfList.java)|
 | 18| 4Sum| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/4Sum.cc)|
@@ -326,10 +326,10 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; MySQL)
 # Shell
 | # |Title |Difficulty| Code |
 |---|------|----------|------|
-|195|	Tenth Line|Easy|[Shell](https://github.com/RayZ-O/leetcode/blob/master/Shell/tenth_line.sh)|
-|194|	Transpose File|Medium|[Shell](https://github.com/RayZ-O/leetcode/blob/master/Shell/transpose_file.sh)|
-|193|	Valid Phone Numbers|	Easy|[Shell](https://github.com/RayZ-O/leetcode/blob/master/Shell/valid_phone_numbers.sh)|
-|192|	Word Frequency|Medium|[Shell](https://github.com/RayZ-O/leetcode/blob/master/Shell/word_frequency.sh)|
+|195|	Tenth Line|Easy|[Bash](https://github.com/RayZ-O/leetcode/blob/master/Shell/tenth_line.sh)|
+|194|	Transpose File|Medium|[Bash](https://github.com/RayZ-O/leetcode/blob/master/Shell/transpose_file.sh)|
+|193|	Valid Phone Numbers|	Easy|[Bash](https://github.com/RayZ-O/leetcode/blob/master/Shell/valid_phone_numbers.sh)|
+|192|	Word Frequency|Medium|[Bash](https://github.com/RayZ-O/leetcode/blob/master/Shell/word_frequency.sh)|
 
 # Database
 | # |Title |Difficulty| Code |

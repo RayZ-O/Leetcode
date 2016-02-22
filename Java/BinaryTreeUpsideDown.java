@@ -40,4 +40,16 @@ public class BinaryTreeUpsideDown {
         }
         return root;
     }
+
+    public TreeNode upsideDownBinaryTreeUtil(TreeNode root) {
+        if (root == null || root.left == null) {
+            return root;
+        }
+        TreeNode n = upsideDownBinaryTreeUtil(root.left);
+        root.left.right = root;
+        root.left.left = root.right;
+        root.left = null;
+        root.right = null;
+        return n;
+    }
 }
