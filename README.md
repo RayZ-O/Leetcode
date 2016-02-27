@@ -11,7 +11,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 331| Verify Preorder Serialization of a Binary Tree| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/VerifyPreorderSerializationOfABinaryTree.cc)|
 | 330| Patching Array| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PatchingArray.cc)|
 | 329| Longest Increasing Path in a Matrix| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LongestIncreasingPathInAMatrix.cc)|
-| 328| Odd Even Linked List| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/OddEvenLinkedList.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/OddEvenLinkedList.java)|
+| 328| Odd Even Linked List| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/OddEvenLinkedList.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/OddEvenLinkedList.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/odd_even_linked_list.py)|
 | 327| Count of Range Sum| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CountOfRangeSum.cc)|
 | 326| Power of Three| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PowerOfThree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/PowerOfThree.java)|
 | 324| Wiggle Sort II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/WiggleSortII.cc)|
@@ -97,7 +97,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 200| Number of Islands| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/NumberOfIslands.cc)|
 | 199| Binary Tree Right Side View| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreeRightSideView.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BinaryTreeRightSideView.java)|
 | 198| House Robber| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/HouseRobber.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/HouseRobber.java)|
-| 191| Number of 1 Bits| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/NumberOf1Bits.cc)|
+| 191| Number of 1 Bits| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/NumberOf1Bits.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/NumberOf1Bits.java)|
 | 190| Reverse Bits| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ReverseBits.cc)|
 | 189| Rotate Array| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RotateArray.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/RotateArray.java)|
 | 188| Best Time to Buy and Sell Stock IV| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BestTimeToBuyAndSellStockIV.cc)|
@@ -114,7 +114,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 164| Maximum Gap| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MaximumGap.cc)|
 | 162| Find Peak Element| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FindPeakElement.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/FindPeakElement.java)|
 | 160| Intersection of Two Linked Lists| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/IntersectionOfTwoLinkedLists.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/IntersectionOfTwoLinkedLists.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/intersection_of_two_linked_lists.py)|
-| 155| Min Stack| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MinStack.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/MinStack.java)|
+| 155| Min Stack| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MinStack.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/MinStack.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/min_stack.py)|
 | 154| Find Minimum in Rotated Sorted Array II| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FindMinimumInRotatedSortedArrayII.cc)|
 | 153| Find Minimum in Rotated Sorted Array| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FindMinimumInRotatedSortedArray.cc)|
 | 152| Maximum Product Subarray| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MaximumProductSubarray.cc)|
@@ -211,7 +211,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 61| Rotate List| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RotateList.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/RotateList.java)|
 | 60| Permutation Sequence| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PermutationSequence.cc)|
 | 59| Spiral Matrix II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SpiralMatrixII.cc)|
-| 58| Length of Last Word| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LengthOfLastWord.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/LengthOfLastWord.java)|
+| 58| Length of Last Word| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LengthOfLastWord.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/LengthOfLastWord.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/length_of_last_word.py)|
 | 57| Insert Interval| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/InsertInterval.cc)|
 | 56| Merge Intervals| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MergeIntervals.cc)|
 | 55| Jump Game| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/JumpGame.cc)|
@@ -256,7 +256,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 16| 3Sum Closest| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/3SumClosest.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ThreeSumClosest.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/three_sum_closest.py)|
 | 15| 3Sum| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/3Sum.cc)|
 | 14| Longest Common Prefix| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LongestCommonPrefix.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/LongestCommonPrefix.java)|
-| 13| Roman to Integer| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RomanToInteger.cc)|
+| 13| Roman to Integer| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RomanToInteger.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/RomanToInteger.java)|
 | 12| Integer to Roman| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/IntegerToRoman.cc)|
 | 11| Container With Most Water| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ContainerWithMostWater.cc)|
 | 10| Regular Expression Matching| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RegularExpressionMatching.cc)|
