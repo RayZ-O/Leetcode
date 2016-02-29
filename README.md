@@ -104,7 +104,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 187| Repeated DNA Sequences| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RepeatedDNASequences.cc)|
 | 179| Largest Number| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LargestNumber.cc)|
 | 174| Dungeon Game| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/DungeonGame.cc)|
-| 173| Binary Search Tree Iterator| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinarySearchTreeIterator.cc)|
+| 173| Binary Search Tree Iterator| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinarySearchTreeIterator.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BinarySearchTreeIterator.java)|
 | 172| Factorial Trailing Zeroes| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FactorialTrailingZeroes.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/FactorialTrailingZeroes.java)|
 | 171| Excel Sheet Column Number| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ExcelSheetColumnNumber.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ExcelSheetColumnNumber.java)|
 | 169| Majority Element| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MajorityElement.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/MajorityElement.java)|
@@ -122,9 +122,9 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 150| Evaluate Reverse Polish Notation| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/EvaluateReversePolishNotation.cc)|
 | 149| Max Points on a Line| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MaxPointsOnALine.cc)|
 | 148| Sort List| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SortList.cc)|
-| 147| Insertion Sort List| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/InsertionSortList.cc)|
+| 147| Insertion Sort List| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/InsertionSortList.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/InsertionSortList.java)|
 | 146| LRU Cache| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LRUCache.cc)|
-| 145| Binary Tree Postorder Traversal| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreePostorderTraversal.cc)|
+| 145| Binary Tree Postorder Traversal| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreePostorderTraversal.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BinaryTreePostorderTraversal.java)|
 | 144| Binary Tree Preorder Traversal| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreePreorderTraversal.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BinaryTreePreorderTraversal.java)|
 | 143| Reorder List| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ReorderList.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ReorderList.java)|
 | 142| Linked List Cycle II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LinkedListCycleII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/LinkedListCycleII.java)|
@@ -161,10 +161,10 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 111| Minimum Depth of Binary Tree| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MinimumDepthOfBinaryTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/MinimumDepthOfBinaryTree.java)|
 | 110| Balanced Binary Tree| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BalancedBinaryTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BalancedBinaryTree.java)|
 | 109| Convert Sorted List to Binary Search Tree| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ConvertSortedListToBinarySearchTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ConvertSortedListToBinarySearchTree.java)|
-| 108| Convert Sorted Array to Binary Search Tree| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ConvertSortedArrayToBinarySearchTree.cc)|
+| 108| Convert Sorted Array to Binary Search Tree| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ConvertSortedArrayToBinarySearchTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ConvertSortedArrayToBinarySearchTree.java)|
 | 107| Binary Tree Level Order Traversal II| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreeLevelOrderTraversalII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BinaryTreeLevelOrderTraversalII.java)|
-| 106| Construct Binary Tree from Inorder and Postorder Traversal| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ConstructBinaryTreeFromInorderAndPostorderTraversal.cc)|
-| 105| Construct Binary Tree from Preorder and Inorder Traversal| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ConstructBinaryTreeFromPreorderAndInorderTraversal.cc)|
+| 106| Construct Binary Tree from Inorder and Postorder Traversal| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ConstructBinaryTreeFromInorderAndPostorderTraversal.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ConstructBinaryTreeFromInorderAndPostorderTraversal.java)|
+| 105| Construct Binary Tree from Preorder and Inorder Traversal| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ConstructBinaryTreeFromPreorderAndInorderTraversal.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ConstructBinaryTreeFromPreorderAndInorderTraversal.java)|
 | 104| Maximum Depth of Binary Tree| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MaximumDepthOfBinaryTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/MaximumDepthOfBinaryTree.java)|
 | 103| Binary Tree Zigzag Level Order Traversal| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreeZigzagLevelOrderTraversal.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BinaryTreeZigzagLevelOrderTraversal.java)|
 | 102| Binary Tree Level Order Traversal| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreeLevelOrderTraversal.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BinaryTreeLevelOrderTraversal.java)|
@@ -175,7 +175,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 97| Interleaving String| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/InterleavingString.cc)|
 | 96| Unique Binary Search Trees| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/UniqueBinarySearchTrees.cc)|
 | 95| Unique Binary Search Trees II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/UniqueBinarySearchTreesII.cc)|
-| 94| Binary Tree Inorder Traversal| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreeInorderTraversal.cc)|
+| 94| Binary Tree Inorder Traversal| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreeInorderTraversal.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BinaryTreeInorderTraversal.java)|
 | 93| Restore IP Addresses| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RestoreIPAddresses.cc)|
 | 92| Reverse Linked List II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ReverseLinkedListII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ReverseLinkedListII.java)|
 | 91| Decode Ways| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/DecodeWays.cc)|
@@ -217,8 +217,8 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 55| Jump Game| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/JumpGame.cc)|
 | 54| Spiral Matrix| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SpiralMatrix.cc)|
 | 53| Maximum Subarray| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MaximumSubarray.cc)|
-| 52| N-Queens II| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/N-QueensII.cc)|
-| 51| N-Queens| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/N-Queens.cc)|
+| 52| N-Queens II| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/N-QueensII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/N-queens.java), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/N-QueensII.java)|
+| 51| N-Queens| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/N-Queens.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/N-queens.java)|
 | 50| Pow(x, n)| Medium| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/Pow.cc) |
 | 49| Group Anagrams| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/GroupAnagrams.cc)|
 | 48| Rotate Image| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RotateImage.cc)|
@@ -231,12 +231,12 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 41| First Missing Positive| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FirstMissingPositive.cc)|
 | 40| Combination Sum II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CombinationSumII.cc)|
 | 39| Combination Sum| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CombinationSum.cc)|
-| 38| Count and Say| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CountAndSay.cc)|
+| 38| Count and Say| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CountAndSay.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/CountAndSay.java)|
 | 37| Sudoku Solver| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SudokuSolver.cc)|
 | 36| Valid Sudoku| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ValidSudoku.cc)|
 | 35| Search Insert Position| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchInsertPosition.cc)|
 | 34| Search for a Range| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchForARange.cc)|
-| 33| Search in Rotated Sorted Array| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchInRotatedSortedArray.cc)|
+| 33| Search in Rotated Sorted Array| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchInRotatedSortedArray.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SearchInRotatedSortedArray.java)|
 | 32| Longest Valid Parentheses| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LongestValidParentheses.cc)|
 | 31| Next Permutation| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/NextPermutation.cc)|
 | 30| Substring with Concatenation of All Words| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SubstringWithConcatenationOfAllWords.cc)|
