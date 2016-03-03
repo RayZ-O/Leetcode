@@ -7,7 +7,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 |---|------|----------|------|
 | 335| Self Crossing |Medium||
 | 334| Increasing Triplet Subsequence|Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/IncreasingTripletSubsequence.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/IncreasingTripletSubsequence.java)|
-| 332| Reconstruct Itinerary| Medium| |
+| 332| Reconstruct Itinerary| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/ReconstructItinerary.cc)|
 | 331| Verify Preorder Serialization of a Binary Tree| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/VerifyPreorderSerializationOfABinaryTree.cc)|
 | 330| Patching Array| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PatchingArray.cc)|
 | 329| Longest Increasing Path in a Matrix| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LongestIncreasingPathInAMatrix.cc)|
