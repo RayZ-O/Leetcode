@@ -17,7 +17,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 324| Wiggle Sort II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/WiggleSortII.cc)|
 | 322| Coin Change| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CoinChange.cc)|
 | 321| Create Maximum Number| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CreateMaximumNumber.cc)|
-| 319| Bulb Switcher| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BulbSwitcher.cc)|
+| 319| Bulb Switcher| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BulbSwitcher.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BulbSwitcher.java)|
 | 318| Maximum Product of Word Lengths| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MaximumProductOfWordLengths.cc)|
 | 316| Remove Duplicate Letters| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RemoveDuplicateLetters.cc)|
 | 315| Count of Smaller Numbers After Self| Hard| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CountofSmallerNumbersAfterSelf.cc) |
@@ -179,7 +179,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 93| Restore IP Addresses| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RestoreIPAddresses.cc)|
 | 92| Reverse Linked List II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ReverseLinkedListII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ReverseLinkedListII.java)|
 | 91| Decode Ways| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/DecodeWays.cc)|
-| 90| Subsets II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SubsetsII.cc)|
+| 90| Subsets II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SubsetsII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SubsetsII.java)|
 | 89| Gray Code| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/GrayCode.cc)|
 | 88| Merge Sorted Array| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MergeSortedArray.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/MergeSortedArray.java)|
 | 87| Scramble String| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ScrambleString.cc)|
@@ -191,8 +191,8 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 81| Search in Rotated Sorted Array II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchInRotatedSortedArrayII.cc)|
 | 80| Remove Duplicates from Sorted Array II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RemoveDuplicatesFromSortedArrayII.cc)|
 | 79| Word Search| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/WordSearch.cc)|
-| 78| Subsets| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/Subsets.cc)|
-| 77| Combinations| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/Combinations.cc)|
+| 78| Subsets| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/Subsets.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/Subsets.java)|
+| 77| Combinations| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/Combinations.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/Combinations.java)|
 | 76| Minimum Window Substring| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MinimumWindowSubstring.cc)|
 | 75| Sort Colors| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SortColors.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SortColors.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/sort_colors.py)|
 | 74| Search a 2D Matrix| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchA2DMatrix.cc)|
@@ -234,7 +234,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 38| Count and Say| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CountAndSay.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/CountAndSay.java)|
 | 37| Sudoku Solver| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SudokuSolver.cc)|
 | 36| Valid Sudoku| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ValidSudoku.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ValidSudoku.java)|
-| 35| Search Insert Position| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchInsertPosition.cc)|
+| 35| Search Insert Position| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchInsertPosition.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SearchInsertPosition.java)|
 | 34| Search for a Range| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchForARange.cc)|
 | 33| Search in Rotated Sorted Array| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchInRotatedSortedArray.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SearchInRotatedSortedArray.java)|
 | 32| Longest Valid Parentheses| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LongestValidParentheses.cc)|
@@ -247,7 +247,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 25| Reverse Nodes in k-Group| Hard| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ReverseNodesInk-Group.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ReverseNodesInKGroup.java)|
 | 24| Swap Nodes in Pairs| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SwapNodesInPairs.cc)|
 | 23| Merge k Sorted Lists| Hard| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MergekSortedLists.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/MergeKSortedLists.java)|
-| 22| Generate Parentheses| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/GenerateParentheses.cc)|
+| 22| Generate Parentheses| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/GenerateParentheses.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/GenerateParentheses.java)|
 | 21| Merge Two Sorted Lists| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MergeTwoSortedList.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/MergeTwoSortedLists.java) [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/merge_two_sorted_lists.py)|
 | 20| Valid Parentheses| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ValidParentheses.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ValidParentheses.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/valid_parentheses.py)|
 | 19| Remove Nth Node From End of List| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RemoveNthFromEnd.cc) [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/RemoveNthNodeFromEndOfList.java)|
