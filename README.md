@@ -18,11 +18,11 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 322| Coin Change| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CoinChange.cc)|
 | 321| Create Maximum Number| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CreateMaximumNumber.cc)|
 | 319| Bulb Switcher| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BulbSwitcher.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BulbSwitcher.java)|
-| 318| Maximum Product of Word Lengths| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MaximumProductOfWordLengths.cc)|
+| 318| Maximum Product of Word Lengths| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MaximumProductOfWordLengths.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/MaximumProductOfWordLengths.java)|
 | 316| Remove Duplicate Letters| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RemoveDuplicateLetters.cc)|
 | 315| Count of Smaller Numbers After Self| Hard| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CountofSmallerNumbersAfterSelf.cc) |
 | 313| Super Ugly Number| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SuperUglyNumber.cc)|
-| 312| Burst Balloons| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BurstBalloons.cc)|
+| 312| Burst Balloons| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BurstBalloons.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BurstBalloons.java)|
 | 310| Minimum Height Trees| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MinimumHeightTrees.cc)|
 | 309| Best Time to Buy and Sell Stock with Cooldown| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BestTimeToBuyAndSellStockWithCooldown.cc)|
 | 307| Range Sum Query - Mutable| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RangeSumQuery-Mutable.cc)|
@@ -32,12 +32,12 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 301| Remove Invalid Parentheses| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RemoveInvalidParentheses.cc)|
 | 300| Longest Increasing Subsequence| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LongestIncreasingSubsequence.cc)|
 | 299| Bulls and Cows| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BullsAndCows.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BullsAndCows.java)|
-| 296| Best Meeting Point | Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BestMeetingPoint.cc)|
-| 295| Find Median from Data Stream| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FindMedianFromDataStream.cc)|
+| 296| Best Meeting Point | Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BestMeetingPoint.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BestMeetingPoint.java)|
+| 295| Find Median from Data Stream| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FindMedianFromDataStream.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/FindMedianFromDataStream.java)|
 | 292| Nim Game| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/NimGame.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/NimGame.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/nim_game.py)|
 | 290| Word Pattern| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/WordPattern.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/WordPattern.java)|
 | 289| Game of Life| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/GameOfLife.cc)|
-| 287| Find the Duplicate Number| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FindTheDuplicateNumber.cc)|
+| 287| Find the Duplicate Number| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FindTheDuplicateNumber.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/FindTheDuplicateNumber.java)|
 | 284| Peeking Iterator| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PeekingIterator.cc)|
 | 283| Move Zeroes| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MoveZeroes.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/MoveZeroes.java)|
 | 282| Expression Add Operators| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ExpressionAddOperators.cc)|
@@ -147,7 +147,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 125| Valid Palindrome| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ValidPalindrome.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ValidPalindrome.java)|
 | 124| Binary Tree Maximum Path Sum| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreeMaximumPathSum.cc)|
 | 123| Best Time to Buy and Sell Stock III| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BestTimeToBuyAndSellStockIII.cc)|
-| 122| Best Time to Buy and Sell Stock II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BestTimeToBuyAndSellStockII.cc)|
+| 122| Best Time to Buy and Sell Stock II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BestTimeToBuyAndSellStockII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BestTimeToBuyAndSellStockII.java)|
 | 121| Best Time to Buy and Sell Stock| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BestTimeToBuyAndSellStock.cc)|
 | 120| Triangle| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/Triangle.cc)|
 | 119| Pascal's Triangle II| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PascalTriangleII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/PascalsTriangleII.java)|
@@ -281,16 +281,16 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 # Database
 | # |Title |Difficulty| Code |
 |---|------|----------|------|
-|262 |Trips and Users | Hard||
-|197 |Rising Temperature | Easy||
+|262 |Trips and Users | Hard|[SQL](https://github.com/RayZ-O/leetcode/blob/master/MySQL/TripsAndUsers.sql)|
+|197 |Rising Temperature | Easy|[SQL](https://github.com/RayZ-O/leetcode/blob/master/MySQL/RisingTemperature.sql)|
 |196 |Delete Duplicate Emails | Easy|[SQL](https://github.com/RayZ-O/leetcode/blob/master/MySQL/DeleteDuplicateEmails.sql)|
-|185 |Department Top Three Salaries | Hard||
+|185 |Department Top Three Salaries | Hard|[SQL](https://github.com/RayZ-O/leetcode/blob/master/MySQL/DepartmentTopThreeSalaries.sql)|
 |184 |Department Highest Salary | Medium|[SQL](https://github.com/RayZ-O/leetcode/blob/master/MySQL/DepartmentHighestSalary.sql)|
 |183 |Customers Who Never Order | Easy|[SQL](https://github.com/RayZ-O/leetcode/blob/master/MySQL/CustomersWhoNeverOrder.sql)|
 |182 |Duplicate Emails | Easy|[SQL](https://github.com/RayZ-O/leetcode/blob/master/MySQL/DuplicateEmails.sql)|
 |181 |Employees Earning More Than Their Managers | Easy|[SQL](https://github.com/RayZ-O/leetcode/blob/master/MySQL/EmployeesEarningMoreThanTheirManagers.sql)|
-|180 |Consecutive Numbers | Medium||
-|178 |Rank Scores | Medium||
+|180 |Consecutive Numbers | Medium|[SQL](https://github.com/RayZ-O/leetcode/blob/master/MySQL/ConsecutiveNumbers.sql)|
+|178 |Rank Scores | Medium|[SQL](https://github.com/RayZ-O/leetcode/blob/master/MySQL/RankScores.sql)|
 |177 |Nth Highest Salary | Medium|[SQL](https://github.com/RayZ-O/leetcode/blob/master/MySQL/NthHighestSalary.sql)|
 |176 |Second Highest Salary | Easy|[SQL](https://github.com/RayZ-O/leetcode/blob/master/MySQL/SecondHighestSalary.sql)|
 |175 |Combine Two Tables | Easy|[SQL](https://github.com/RayZ-O/leetcode/blob/master/MySQL/CombineTwoTables.sql)|
