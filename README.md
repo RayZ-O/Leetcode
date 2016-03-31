@@ -7,7 +7,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 |---|------|----------|------|
 | 338| Counting Bits |Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/CountingBits.cc)|
 | 337| House Robber III |Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/HouseRobberIII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/HouseRobberIII.java)|
-| 336| Palindrome Pairs |Hard||
+| 336| Palindrome Pairs |Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/PalindromePairs.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/PalindromePairs.java)|
 | 335| Self Crossing |Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/SelfCrossing.cc)|
 | 334| Increasing Triplet Subsequence|Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/IncreasingTripletSubsequence.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/IncreasingTripletSubsequence.java)|
 | 332| Reconstruct Itinerary| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/ReconstructItinerary.cc)|
@@ -132,8 +132,8 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 143| Reorder List| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ReorderList.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ReorderList.java)|
 | 142| Linked List Cycle II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LinkedListCycleII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/LinkedListCycleII.java)|
 | 141| Linked List Cycle| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LinkedListCycle.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/LinkedListCycle.java)|
-| 140| Word Break II| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/WordBreakII.cc)|
-| 139| Word Break| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/WordBreak.cc)|
+| 140| Word Break II| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/WordBreakII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/WordBreakII.java)|
+| 139| Word Break| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/WordBreak.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/WordBreak.java)|
 | 138| Copy List with Random Pointer| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CopyListWithRandomPointer.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/CopyListWithRandomPointer.java)|
 | 137| Single Number II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SingleNumberII.cc)|
 | 136| Single Number| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SingleNumber.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SingleNumber.java)|
@@ -225,8 +225,8 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 50| Pow(x, n)| Medium| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/Pow.cc) |
 | 49| Group Anagrams| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/GroupAnagrams.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/GroupAnagrams.java)|
 | 48| Rotate Image| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RotateImage.cc)|
-| 47| Permutations II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PermutationsII.cc)|
-| 46| Permutations| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/Permutations.cc)|
+| 47| Permutations II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PermutationsII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/PermutationsII.java)|
+| 46| Permutations| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/Permutations.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/Permutations.java)|
 | 45| Jump Game II| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/JumpGameII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/JumpGameII.java)|
 | 44| Wildcard Matching| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/WildcardMatching.cc)|
 | 43| Multiply Strings| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MultiplyStrings.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/MultiplyStrings.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/multiply_strings.py)|
@@ -238,10 +238,10 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 37| Sudoku Solver| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SudokuSolver.cc)|
 | 36| Valid Sudoku| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ValidSudoku.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ValidSudoku.java)|
 | 35| Search Insert Position| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchInsertPosition.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SearchInsertPosition.java)|
-| 34| Search for a Range| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchForARange.cc)|
+| 34| Search for a Range| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchForARange.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SearchForARange.java)|
 | 33| Search in Rotated Sorted Array| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchInRotatedSortedArray.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SearchInRotatedSortedArray.java)|
 | 32| Longest Valid Parentheses| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LongestValidParentheses.cc)|
-| 31| Next Permutation| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/NextPermutation.cc)|
+| 31| Next Permutation| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/NextPermutation.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/NextPermutation.java)|
 | 30| Substring with Concatenation of All Words| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SubstringWithConcatenationOfAllWords.cc)|
 | 29| Divide Two Integers| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/DivideTwoIntegers.cc)|
 | 28| Implement strStr()| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ImplementstrStr.cc) , [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ImplementStrStr.java)|
