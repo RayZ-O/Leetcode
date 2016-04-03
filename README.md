@@ -120,7 +120,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 155| Min Stack| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MinStack.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/MinStack.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/min_stack.py)|
 | 154| Find Minimum in Rotated Sorted Array II| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FindMinimumInRotatedSortedArrayII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/FindMinimumInRotatedSortedArrayII.java)|
 | 153| Find Minimum in Rotated Sorted Array| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FindMinimumInRotatedSortedArray.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/FindMinimumInRotatedSortedArray.java)|
-| 152| Maximum Product Subarray| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MaximumProductSubarray.cc)|
+| 152| Maximum Product Subarray| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MaximumProductSubarray.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/MaximumProductSubarray.java)|
 | 151| Reverse Words in a String| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ReverseWordsInAString.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ReverseWordsInAString.java)|
 | 150| Evaluate Reverse Polish Notation| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/EvaluateReversePolishNotation.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/EvaluateReversePolishNotation.java)|
 | 149| Max Points on a Line| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MaxPointsOnALine.cc)|
@@ -222,7 +222,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 53| Maximum Subarray| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MaximumSubarray.cc)|
 | 52| N-Queens II| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/N-QueensII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/N-QueensII.java)|
 | 51| N-Queens| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/N-Queens.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/N-queens.java)|
-| 50| Pow(x, n)| Medium| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/Pow.cc) |
+| 50| Pow(x, n)| Medium| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/Pow.cc) , [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/Pow.java)|
 | 49| Group Anagrams| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/GroupAnagrams.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/GroupAnagrams.java)|
 | 48| Rotate Image| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RotateImage.cc)|
 | 47| Permutations II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PermutationsII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/PermutationsII.java)|
