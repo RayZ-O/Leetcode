@@ -18,7 +18,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 327| Count of Range Sum| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CountOfRangeSum.cc)|
 | 326| Power of Three| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PowerOfThree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/PowerOfThree.java)|
 | 324| Wiggle Sort II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/WiggleSortII.cc)|
-| 322| Coin Change| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CoinChange.cc)|
+| 322| Coin Change| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CoinChange.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/CoinChange.java)|
 | 321| Create Maximum Number| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CreateMaximumNumber.cc)|
 | 319| Bulb Switcher| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BulbSwitcher.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BulbSwitcher.java)|
 | 318| Maximum Product of Word Lengths| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MaximumProductOfWordLengths.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/MaximumProductOfWordLengths.java)|
@@ -70,10 +70,10 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 230| Kth Smallest Element in a BST| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/KthSmallestElementInABST.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/KthSmallestElementInABST.java)|
 | 229| Majority Element II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MajorityElementII.cc)|
 | 228| Summary Ranges| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SummaryRanges.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SummaryRanges.java)|
-| 227| Basic Calculator II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BasicCalculatorII.cc)|
+| 227| Basic Calculator II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BasicCalculatorII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BasicCalculatorII.java)|
 | 226| Invert Binary Tree| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/InvertBinaryTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/InvertBinaryTree.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/invert_binary_tree.py)|
 | 225| Implement Stack using Queues| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ImplementStackUsingQueues.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ImplementStackUsingQueues.java)|
-| 224| Basic Calculator| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BasicCalculator.cc)|
+| 224| Basic Calculator| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BasicCalculator.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BasicCalculator.java)|
 | 223| Rectangle Area| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RectangleArea.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/RectangleArea.java)|
 | 222| Count Complete Tree Nodes| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CountCompleteTreeNodes.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/CountCompleteTreeNodes.java)|
 | 221| Maximal Square| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MaximalSquare.cc)|
@@ -141,17 +141,17 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 134| Gas Station| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/GasStation.cc)|
 | 133| Clone Graph| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CloneGraph.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/CloneGraph.java)|
 | 132| Palindrome Partitioning II| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PalindromePartitioningII.cc)|
-| 131| Palindrome Partitioning| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PalindromePartitioning.cc)|
+| 131| Palindrome Partitioning| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PalindromePartitioning.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/PalindromePartitioning.java)|
 | 130| Surrounded Regions| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SurroundedRegions.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SurroundedRegions.java)|
 | 129| Sum Root to Leaf Numbers| Medium| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SumRoottoLeafNumbers.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SumRootToLeafNumbers.java)|
 | 128| Longest Consecutive Sequence| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LongestConsecutiveSequence.cc)|
 | 127| Word Ladder| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/WordLadder.cc)|
 | 126| Word Ladder II| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/WordLadderII.cc)|
 | 125| Valid Palindrome| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ValidPalindrome.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ValidPalindrome.java)|
-| 124| Binary Tree Maximum Path Sum| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreeMaximumPathSum.cc)|
+| 124| Binary Tree Maximum Path Sum| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreeMaximumPathSum.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BinaryTreeMaximumPathSum.java)|
 | 123| Best Time to Buy and Sell Stock III| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BestTimeToBuyAndSellStockIII.cc)|
 | 122| Best Time to Buy and Sell Stock II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BestTimeToBuyAndSellStockII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BestTimeToBuyAndSellStockII.java)|
-| 121| Best Time to Buy and Sell Stock| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BestTimeToBuyAndSellStock.cc)|
+| 121| Best Time to Buy and Sell Stock| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BestTimeToBuyAndSellStock.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BestTimeToBuyAndSellStock.java)|
 | 120| Triangle| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/Triangle.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/Triangle.java)|
 | 119| Pascal's Triangle II| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PascalTriangleII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/PascalsTriangleII.java)|
 | 118| Pascal's Triangle| Easy| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PascalTriangle.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/PascalsTriangle.java)|
@@ -232,8 +232,8 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 43| Multiply Strings| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MultiplyStrings.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/MultiplyStrings.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/multiply_strings.py)|
 | 42| Trapping Rain Water| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/TrappingRainWater.cc)|
 | 41| First Missing Positive| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/FirstMissingPositive.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/FirstMissingPositive.java)|
-| 40| Combination Sum II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CombinationSumII.cc)|
-| 39| Combination Sum| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CombinationSum.cc)|
+| 40| Combination Sum II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CombinationSumII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/CombinationSumII.java)|
+| 39| Combination Sum| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CombinationSum.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/CombinationSum.java)|
 | 38| Count and Say| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CountAndSay.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/CountAndSay.java)|
 | 37| Sudoku Solver| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SudokuSolver.cc)|
 | 36| Valid Sudoku| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ValidSudoku.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ValidSudoku.java)|

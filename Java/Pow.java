@@ -1,0 +1,15 @@
+// Implement pow(x, n).
+
+public class Pow {
+    public double myPow(double x, int n) {
+        if (n == 0) {
+            return 1;
+        }
+        if (n < 0) {
+            n = -n;
+            x = 1.0 / x;
+        }
+        double pow = myPow(x*x, n/2);
+        return n % 2 == 0 ? pow : x * pow;
+    }
+}
