@@ -24,7 +24,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 318| Maximum Product of Word Lengths| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MaximumProductOfWordLengths.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/MaximumProductOfWordLengths.java)|
 | 316| Remove Duplicate Letters| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RemoveDuplicateLetters.cc)|
 | 315| Count of Smaller Numbers After Self| Hard| [C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CountofSmallerNumbersAfterSelf.cc) |
-| 313| Super Ugly Number| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SuperUglyNumber.cc)|
+| 313| Super Ugly Number| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SuperUglyNumber.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SuperUglyNumber.java)|
 | 312| Burst Balloons| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BurstBalloons.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BurstBalloons.java)|
 | 310| Minimum Height Trees| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MinimumHeightTrees.cc)|
 | 309| Best Time to Buy and Sell Stock with Cooldown| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BestTimeToBuyAndSellStockWithCooldown.cc)|
@@ -50,7 +50,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 274| H-Index| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/H-Index.cc)|
 | 273| Integer to English Words| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/IntegerToEnglishWords.cc)|
 | 268| Missing Number| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MissingNumber.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/MissingNumber.java)|
-| 264| Ugly Number II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/UglyNumberII.cc)|
+| 264| Ugly Number II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/UglyNumberII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/UglyNumberII.java)|
 | 263| Ugly Number| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/UglyNumber.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/UglyNumber.java)|
 | 260| Single Number III| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SingleNumberIII.cc)|
 | 258| Add Digits| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/AddDigits.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/AddDigits.java)|
@@ -173,7 +173,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 102| Binary Tree Level Order Traversal| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreeLevelOrderTraversal.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BinaryTreeLevelOrderTraversal.java)|
 | 101| Symmetric Tree| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SymmetricTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SymmetricTree.java)|
 | 100| Same Tree| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SameTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SameTree.java)|
-| 99| Recover Binary Search Tree| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RecoverBinarySearchTree.cc)|
+| 99| Recover Binary Search Tree| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RecoverBinarySearchTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/RecoverBinarySearchTree.java)|
 | 98| Validate Binary Search Tree| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ValidateBinarySearchTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ValidateBinarySearchTree.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/validate_binary_search_tree.py)|
 | 97| Interleaving String| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/InterleavingString.cc)|
 | 96| Unique Binary Search Trees| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/UniqueBinarySearchTrees.cc)|
