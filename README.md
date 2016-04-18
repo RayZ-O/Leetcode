@@ -5,6 +5,8 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 # Algorithms
 | # |Title |Difficulty| Code |
 |---|------|----------|------|
+|342 |Power of Four| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/PowerOfFour.cc)|
+|341 |Flatten Nested List Iterator|Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/FlattenNestedListIterator.cc)|
 | 338| Counting Bits |Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/CountingBits.cc)|
 | 337| House Robber III |Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/HouseRobberIII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/HouseRobberIII.java)|
 | 336| Palindrome Pairs |Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/PalindromePairs.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/PalindromePairs.java)|
@@ -28,7 +30,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 312| Burst Balloons| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BurstBalloons.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BurstBalloons.java)|
 | 310| Minimum Height Trees| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MinimumHeightTrees.cc)|
 | 309| Best Time to Buy and Sell Stock with Cooldown| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BestTimeToBuyAndSellStockWithCooldown.cc)|
-| 307| Range Sum Query - Mutable| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RangeSumQuery-Mutable.cc)|
+| 307| Range Sum Query - Mutable| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RangeSumQuery-Mutable.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/RangeSumQuery-Mutable.java)|
 | 306| Additive Number| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/AdditiveNumber.cc)|
 | 304| Range Sum Query 2D - Immutable| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RangeSumQuery2D-Immutable.cc)|
 | 303| Range Sum Query - Immutable| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RangeSumQuery-Immutable.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/RangeSumQueryImmutable.java)|
@@ -179,7 +181,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 96| Unique Binary Search Trees| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/UniqueBinarySearchTrees.cc)|
 | 95| Unique Binary Search Trees II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/UniqueBinarySearchTreesII.cc)|
 | 94| Binary Tree Inorder Traversal| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/BinaryTreeInorderTraversal.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/BinaryTreeInorderTraversal.java)|
-| 93| Restore IP Addresses| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RestoreIPAddresses.cc)|
+| 93| Restore IP Addresses| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RestoreIPAddresses.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/RestoreIPAddresses.java)|
 | 92| Reverse Linked List II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ReverseLinkedListII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ReverseLinkedListII.java)|
 | 91| Decode Ways| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/DecodeWays.cc)|
 | 90| Subsets II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SubsetsII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SubsetsII.java)|
