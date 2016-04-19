@@ -5,7 +5,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 # Algorithms
 | # |Title |Difficulty| Code |
 |---|------|----------|------|
-|342 |Power of Four| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/PowerOfFour.cc)|
+|342 |Power of Four| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/PowerOfFour.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/PowerOfFour.java)|
 |341 |Flatten Nested List Iterator|Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/FlattenNestedListIterator.cc)|
 | 338| Counting Bits |Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/CountingBits.cc)|
 | 337| House Robber III |Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/HouseRobberIII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/HouseRobberIII.java)|
@@ -13,9 +13,9 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 335| Self Crossing |Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/SelfCrossing.cc)|
 | 334| Increasing Triplet Subsequence|Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/IncreasingTripletSubsequence.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/IncreasingTripletSubsequence.java)|
 | 332| Reconstruct Itinerary| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/ReconstructItinerary.cc)|
-| 331| Verify Preorder Serialization of a Binary Tree| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/VerifyPreorderSerializationOfABinaryTree.cc)|
+| 331| Verify Preorder Serialization of a Binary Tree| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/VerifyPreorderSerializationOfABinaryTree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/VerifyPreorderSerializationOfABinaryTree.java)|
 | 330| Patching Array| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PatchingArray.cc)|
-| 329| Longest Increasing Path in a Matrix| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LongestIncreasingPathInAMatrix.cc)|
+| 329| Longest Increasing Path in a Matrix| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/LongestIncreasingPathInAMatrix.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/LongestIncreasingPathInAMatrix.java)|
 | 328| Odd Even Linked List| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/OddEvenLinkedList.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/OddEvenLinkedList.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/odd_even_linked_list.py)|
 | 327| Count of Range Sum| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CountOfRangeSum.cc)|
 | 326| Power of Three| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PowerOfThree.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/PowerOfThree.java)|
@@ -83,7 +83,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 219| Contains Duplicate II| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ContainsDuplicateII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ContainsDuplicateII.java)|
 | 218| The Skyline Problem| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/TheSkylineProblem.cc)|
 | 217| Contains Duplicate| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ContainsDuplicate.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ContainsDuplicate.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/contains_duplicate.py)|
-| 216| Combination Sum III| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CombinationSumIII.cc)|
+| 216| Combination Sum III| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CombinationSumIII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/CombinationSumIII.java)|
 | 215| Kth Largest Element in an Array| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/KthLargestElementInAnArray.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/KthLargestElementInAnArray.java)|
 | 214| Shortest Palindrome| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ShortestPalindrome.cc)|
 | 213| House Robber II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/HouseRobberII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/HouseRobber.java)|
@@ -201,7 +201,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 76| Minimum Window Substring| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MinimumWindowSubstring.cc)|
 | 75| Sort Colors| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SortColors.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SortColors.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/sort_colors.py)|
 | 74| Search a 2D Matrix| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchA2DMatrix.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SearchA2DMatrix.java)|
-| 73| Set Matrix Zeroes| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SetMatrixZeroes.cc)|
+| 73| Set Matrix Zeroes| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SetMatrixZeroes.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SetMatrixZeroes.java)|
 | 72| Edit Distance| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/EditDistance.cc)|
 | 71| Simplify Path| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SimplifyPath.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SimplifyPath.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/simplify_path.py)|
 | 70| Climbing Stairs| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ClimbingStairs.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ClimbingStairs.java)|
@@ -210,7 +210,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 67| Add Binary| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/AddBinary.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/AddBinary.java)|
 | 66| Plus One| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/PlusOne.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/PlusOne.java)|
 | 65| Valid Number| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ValidNumber.cc)|
-| 64| Minimum Path Sum| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MinimumPathSum.cc)|
+| 64| Minimum Path Sum| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/MinimumPathSum.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/MinimumPathSum.java)|
 | 63| Unique Paths II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/UniquePathsII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/UniquePathsII.java)|
 | 62| Unique Paths| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/UniquePaths.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/UniquePaths.java)|
 | 61| Rotate List| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/RotateList.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/RotateList.java)|
