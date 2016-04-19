@@ -5,6 +5,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 # Algorithms
 | # |Title |Difficulty| Code |
 |---|------|----------|------|
+|343 |Integer Break|Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/IntegerBreak.cc)|
 |342 |Power of Four| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/PowerOfFour.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/PowerOfFour.java)|
 |341 |Flatten Nested List Iterator|Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/FlattenNestedListIterator.cc)|
 | 338| Counting Bits |Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/CountingBits.cc)|
