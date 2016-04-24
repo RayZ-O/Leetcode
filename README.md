@@ -5,6 +5,8 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 # Algorithms
 | # |Title |Difficulty| Code |
 |---|------|----------|------|
+|345 |Reverse Vowels of a String| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/ReverseVowelsOfAString.cc)|
+|344 |Reverse String| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/ReverseString.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ReverseString.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/reverse_string.py)|
 |343 |Integer Break|Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/IntegerBreak.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/IntegerBreak.java)|
 |342 |Power of Four| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/PowerOfFour.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/PowerOfFour.java)|
 |341 |Flatten Nested List Iterator|Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/FlattenNestedListIterator.cc)|
