@@ -5,6 +5,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 # Algorithms
 | # |Title |Difficulty| Code |
 |---|------|----------|------|
+|347 |Top K Frequent Elements|Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/TopKFrequentElements.cc)|
 |345 |Reverse Vowels of a String| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/ReverseVowelsOfAString.cc)|
 |344 |Reverse String| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/ReverseString.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ReverseString.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/reverse_string.py)|
 |343 |Integer Break|Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/IntegerBreak.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/IntegerBreak.java)|
