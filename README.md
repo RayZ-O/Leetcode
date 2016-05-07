@@ -5,7 +5,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 # Algorithms
 | # |Title |Difficulty| Code |
 |---|------|----------|------|
-|347 |Top K Frequent Elements|Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/TopKFrequentElements.cc)|
+|347 |Top K Frequent Elements|Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/TopKFrequentElements.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/TopKFrequentElements.java)|
 |345 |Reverse Vowels of a String| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/ReverseVowelsOfAString.cc)|
 |344 |Reverse String| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/ReverseString.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ReverseString.java), [Python](https://github.com/RayZ-O/leetcode/blob/master/Python/reverse_string.py)|
 |343 |Integer Break|Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C%2B%2B/IntegerBreak.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/IntegerBreak.java)|
@@ -241,7 +241,7 @@ Solved problems on leetcode (in C++, Java, Shell, Python &amp; SQL)
 | 40| Combination Sum II| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CombinationSumII.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/CombinationSumII.java)|
 | 39| Combination Sum| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CombinationSum.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/CombinationSum.java)|
 | 38| Count and Say| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/CountAndSay.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/CountAndSay.java)|
-| 37| Sudoku Solver| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SudokuSolver.cc)|
+| 37| Sudoku Solver| Hard|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SudokuSolver.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SudokuSolver.java)|
 | 36| Valid Sudoku| Easy|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/ValidSudoku.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/ValidSudoku.java)|
 | 35| Search Insert Position| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchInsertPosition.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SearchInsertPosition.java)|
 | 34| Search for a Range| Medium|[C++](https://github.com/RayZ-O/leetcode/blob/master/C++/SearchForARange.cc), [Java](https://github.com/RayZ-O/leetcode/blob/master/Java/SearchForARange.java)|
